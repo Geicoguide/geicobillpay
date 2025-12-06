@@ -1,0 +1,15 @@
+# GEICO Bill Payment SEO Landing Page Robots.txt
+# Optimized for full indexing of the main conversion content.
+
+User-agent: *
+Allow: /
+
+# Disallow any specific folders or internal paths you want hidden (e.g., test pages)
+# Disallow: /admin/
+# Disallow: /old-drafts/
+
+# Specify a crawl delay (optional, but good practice for server load)
+Crawl-delay: 5
+
+# Point to your main sitemap
+Sitemap: https://[YOUR-REPO-URL]/sitemap.xml
