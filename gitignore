@@ -1,0 +1,21 @@
+# General Ignore List for Web Projects
+
+# Dependency directories
+/node_modules
+/dist
+/build
+/temp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Environment and Configuration Files
+.env
+.env.local
+.vscode/
+
+# Editor/IDE files
+*.log
+*.swp
+*~
